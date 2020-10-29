@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="charint01.c" />
+    <ClCompile Include="escseq01.c" />
     <ClCompile Include="getch01.c" />
     <ClCompile Include="getchar01.c" />
     <ClCompile Include="gets01.c" />
