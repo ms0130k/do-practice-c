@@ -24,5 +24,11 @@
     <ClCompile Include="getch01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="gets01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="get_s01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
