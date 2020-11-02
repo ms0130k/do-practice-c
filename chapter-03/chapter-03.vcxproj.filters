@@ -36,5 +36,17 @@
     <ClCompile Include="charint01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="format01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floatprint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floatformat01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
