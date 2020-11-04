@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="charint01.c" />
     <ClCompile Include="escseq01.c" />
+    <ClCompile Include="exercise_03.c" />
     <ClCompile Include="floatformat01.c" />
     <ClCompile Include="floatprint01.c" />
     <ClCompile Include="format01.c" />
@@ -29,6 +30,7 @@
     <ClCompile Include="gets01.c" />
     <ClCompile Include="get_s01.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="practice_03-01.c" />
     <ClCompile Include="scanfint01.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
