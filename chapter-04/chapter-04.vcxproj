@@ -19,25 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="charint01.c" />
-    <ClCompile Include="escseq01.c" />
-    <ClCompile Include="exercise_03.c" />
-    <ClCompile Include="floatformat01.c" />
-    <ClCompile Include="floatprint01.c" />
-    <ClCompile Include="format01.c" />
-    <ClCompile Include="getch01.c" />
-    <ClCompile Include="getchar01.c" />
-    <ClCompile Include="gets01.c" />
-    <ClCompile Include="get_s01.c" />
-    <ClCompile Include="main.c" />
-    <ClCompile Include="practice_03-01.c" />
-    <ClCompile Include="scanfint01.c" />
+    <ClCompile Include="operator01.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7a561ea7-0631-45e8-a6f0-6c89d54a8785}</ProjectGuid>
-    <RootNamespace>chapter03</RootNamespace>
+    <ProjectGuid>{1a4a659c-1815-434c-940d-3befa284cf5e}</ProjectGuid>
+    <RootNamespace>chapter04</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -100,7 +88,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>false</SDLCheck>
+      <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
