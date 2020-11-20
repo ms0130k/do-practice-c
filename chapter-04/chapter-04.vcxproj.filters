@@ -36,5 +36,23 @@
     <ClCompile Include="practice_04-02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="opassign01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opassignconst01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opswap1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opcomassign01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opassign02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="accumulate01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
