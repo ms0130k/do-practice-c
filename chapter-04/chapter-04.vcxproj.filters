@@ -54,5 +54,17 @@
     <ClCompile Include="accumulate01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="opcast01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opinc01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opinc02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simpleTest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
