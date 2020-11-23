@@ -66,5 +66,17 @@
     <ClCompile Include="simpleTest.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="opbit01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opmask01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcAvg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sectotime.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
