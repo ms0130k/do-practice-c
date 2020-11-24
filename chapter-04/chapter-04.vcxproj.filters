@@ -84,5 +84,32 @@
     <ClCompile Include="oprelational01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="oprelintfloat01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oplogical01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oplogical02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oplogicalerror01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="oplogicalnot01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opshortcircuit01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opcondierror01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opcondi01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="passorfail.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
