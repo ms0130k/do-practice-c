@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="accumulate01.c" />
     <ClCompile Include="CalcAvg.c" />
+    <ClCompile Include="getmax02.c" />
     <ClCompile Include="opassign01.c" />
     <ClCompile Include="opassign02.c" />
     <ClCompile Include="opassignconst01.c" />
