@@ -114,5 +114,8 @@
     <ClCompile Include="getmax02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="maxsurvival01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
