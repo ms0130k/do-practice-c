@@ -20,9 +20,22 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="accumulate01.c" />
+    <ClCompile Include="binarrange.c" />
+    <ClCompile Include="busfee.c" />
     <ClCompile Include="CalcAvg.c" />
+    <ClCompile Include="chtrlgoto01.c" />
     <ClCompile Include="ctrlbranch01.c" />
+    <ClCompile Include="ctrlclassify02.c" />
+    <ClCompile Include="ctrlclassifybin01.c" />
+    <ClCompile Include="ctrlidsearch01.c" />
+    <ClCompile Include="ctrlifelse01.c" />
+    <ClCompile Include="ctrlifelse02.c" />
+    <ClCompile Include="ctrlswitchcase01.c" />
+    <ClCompile Include="ctrlswitchcase02.c" />
     <ClCompile Include="exercise_05.c" />
+    <ClCompile Include="exercise_06-01.c" />
+    <ClCompile Include="exercise_06-02.cpp" />
+    <ClCompile Include="exercise_06-03.c" />
     <ClCompile Include="getmax.c" />
     <ClCompile Include="getmax02.c" />
     <ClCompile Include="getmax_if.c" />
@@ -56,6 +69,7 @@
     <ClCompile Include="practice_04-02.c" />
     <ClCompile Include="sectotime.c" />
     <ClCompile Include="simpleTest.c" />
+    <ClCompile Include="steparrange.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="TypePromotion.c" />
   </ItemGroup>

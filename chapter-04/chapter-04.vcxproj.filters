@@ -132,5 +132,47 @@
     <ClCompile Include="getmax_if.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="busfee.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlifelse01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlifelse02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlclassifybin01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="binarrange.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlidsearch01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlclassify02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="steparrange.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlswitchcase01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ctrlswitchcase02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chtrlgoto01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_06-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_06-02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_06-03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
