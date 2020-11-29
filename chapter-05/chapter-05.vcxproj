@@ -19,51 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="accumulate01.c" />
-    <ClCompile Include="CalcAvg.c" />
     <ClCompile Include="ctrlbranch01.c" />
-    <ClCompile Include="exercise_05.c" />
-    <ClCompile Include="getmax.c" />
-    <ClCompile Include="getmax02.c" />
-    <ClCompile Include="getmax_if.c" />
-    <ClCompile Include="maxsurvival01.c" />
-    <ClCompile Include="opassign01.c" />
-    <ClCompile Include="opassign02.c" />
-    <ClCompile Include="opassignconst01.c" />
-    <ClCompile Include="opbit01.c" />
-    <ClCompile Include="opcast01.c" />
-    <ClCompile Include="opcomassign01.c" />
-    <ClCompile Include="opcondi01.c" />
-    <ClCompile Include="opcondierror01.c" />
-    <ClCompile Include="opdoubleint02.c" />
-    <ClCompile Include="operator01.c" />
-    <ClCompile Include="operator02.c" />
-    <ClCompile Include="operator04.c" />
-    <ClCompile Include="opinc01.c" />
-    <ClCompile Include="opinc02.c" />
-    <ClCompile Include="oplogical01.c" />
-    <ClCompile Include="oplogical02.c" />
-    <ClCompile Include="oplogicalerror01.c" />
-    <ClCompile Include="oplogicalnot01.c" />
-    <ClCompile Include="opmask01.c" />
-    <ClCompile Include="oprelational01.c" />
-    <ClCompile Include="oprelintfloat01.c" />
-    <ClCompile Include="opshortcircuit01.c" />
-    <ClCompile Include="opsizeof01.c" />
-    <ClCompile Include="opswap1.c" />
-    <ClCompile Include="passorfail.c" />
-    <ClCompile Include="practice_04-01.c" />
-    <ClCompile Include="practice_04-02.c" />
-    <ClCompile Include="sectotime.c" />
-    <ClCompile Include="simpleTest.c" />
-    <ClCompile Include="test.c" />
-    <ClCompile Include="TypePromotion.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1a4a659c-1815-434c-940d-3befa284cf5e}</ProjectGuid>
-    <RootNamespace>chapter04</RootNamespace>
+    <ProjectGuid>{bf1f82de-ec73-4878-a29c-d9aacf99ffd0}</ProjectGuid>
+    <RootNamespace>chapter05</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
