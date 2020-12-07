@@ -151,6 +151,8 @@
     <ClCompile Include="opswap1.c" />
     <ClCompile Include="printstar.c" />
     <ClCompile Include="Rect01.c" />
+    <ClCompile Include="triangle01.c" />
+    <ClCompile Include="triangle02.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

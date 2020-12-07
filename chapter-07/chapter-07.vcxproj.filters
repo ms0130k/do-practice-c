@@ -51,5 +51,11 @@
     <ClCompile Include="ctrlnestedfor01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="triangle01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
