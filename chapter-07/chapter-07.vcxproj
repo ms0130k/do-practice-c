@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="calctotal.c" />
+    <ClCompile Include="ctrlbreak01.c" />
+    <ClCompile Include="ctrlbreak02.c" />
+    <ClCompile Include="ctrlcontinue01.c" />
+    <ClCompile Include="ctrldowhile01.c" />
     <ClCompile Include="ctrlendless01.c" />
     <ClCompile Include="ctrlendless02.c" />
     <ClCompile Include="ctrlfor01.c" />
@@ -150,6 +154,7 @@
     <ClCompile Include="gugu01.c" />
     <ClCompile Include="opswap1.c" />
     <ClCompile Include="printstar.c" />
+    <ClCompile Include="pyramid01.c" />
     <ClCompile Include="Rect01.c" />
     <ClCompile Include="triangle01.c" />
     <ClCompile Include="triangle02.c" />
