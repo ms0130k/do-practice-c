@@ -72,5 +72,8 @@
     <ClCompile Include="ctrlbreak02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise_07-01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
