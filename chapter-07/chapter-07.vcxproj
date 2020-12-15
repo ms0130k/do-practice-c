@@ -151,7 +151,7 @@
     <ClCompile Include="ctrlnestedloop01.c" />
     <ClCompile Include="ctrlwhilevariable.c" />
     <ClCompile Include="ctrlwhilevariable02.c" />
-    <ClCompile Include="exercise_07-01.cpp" />
+    <ClCompile Include="exercise_07-1.c" />
     <ClCompile Include="gugu01.c" />
     <ClCompile Include="opswap1.c" />
     <ClCompile Include="printstar.c" />
