@@ -78,5 +78,11 @@
     <ClCompile Include="exercise_07-2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise_07-3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_07-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
