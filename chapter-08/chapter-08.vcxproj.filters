@@ -24,5 +24,44 @@
     <ClCompile Include="array02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayerror01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraycpy01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="maxfromarray01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_08-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_08-02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraystring01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraystring02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arrray04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraycounter01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_08-03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraysum01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

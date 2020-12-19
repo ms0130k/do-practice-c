@@ -18,11 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="practice_09-01.c" />
+    <ClCompile Include="practice_09-02.c" />
+    <ClCompile Include="practice_09-03.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ce5181c7-68e1-4fe5-83ef-657477e29013}</ProjectGuid>
-    <RootNamespace>chapter08</RootNamespace>
+    <ProjectGuid>{6bc867a1-ebde-4f68-b972-509fdf23fdf6}</ProjectGuid>
+    <RootNamespace>chapter09</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,24 +143,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="array01.c" />
-    <ClCompile Include="array02.c" />
-    <ClCompile Include="array03.c" />
-    <ClCompile Include="array05.c" />
-    <ClCompile Include="arraycounter01.c" />
-    <ClCompile Include="arraycpy01.c" />
-    <ClCompile Include="arrayerror01.c" />
-    <ClCompile Include="arrayneeds.c" />
-    <ClCompile Include="arraystring01.c" />
-    <ClCompile Include="arraystring02.c" />
-    <ClCompile Include="arraysum01.c" />
-    <ClCompile Include="arrray04.c" />
-    <ClCompile Include="maxfromarray01.c" />
-    <ClCompile Include="practice_08-01.c" />
-    <ClCompile Include="practice_08-02.c" />
-    <ClCompile Include="practice_08-03.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
