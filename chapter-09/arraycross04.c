@@ -3,28 +3,28 @@
 //int main(void)
 //{
 //	int aList[5][5] = { 0 };
-//	int i = 0, j = 0, nCounter = 0, nOffset = 1;
+//	int i = 0, j = 0, nCounter = 0, nFlag = 1;
 //
 //	for (i = 0; i < 5; ++i)
 //	{
-//		if (i % 2 == 0) nCounter = i * 5;
-//		else nCounter = (i + 1) * 5 + 1;
-//
-//		for (j = 0; j < 5; ++j)
+//		if (nFlag)
 //		{
-//			nCounter += nOffset;
-//			aList[i][j] = nCounter;
+//			for (j = 0; j < 5; ++j)
+//				aList[i][j] = ++nCounter;
+//			nFlag = 0;
 //		}
-//
-//		nOffset = -nOffset;
+//		else
+//		{
+//			for (j = 0; j < 5; ++j)
+//				aList[i][4 - j] = ++nCounter;
+//			nFlag = 1;
+//		}
 //	}
-//
 //	for (i = 0; i < 5; ++i)
 //	{
 //		for (j = 0; j < 5; ++j)
 //			printf("%d\t", aList[i][j]);
 //		putchar('\n');
 //	}
-//
 //	return 0;
 //}
