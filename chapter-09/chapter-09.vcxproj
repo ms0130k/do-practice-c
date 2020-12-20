@@ -19,6 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="arraycross01.c" />
+    <ClCompile Include="arraycross02.c" />
+    <ClCompile Include="arraycross03.c" />
     <ClCompile Include="practice_09-01.c" />
     <ClCompile Include="practice_09-02.c" />
     <ClCompile Include="practice_09-03.c" />

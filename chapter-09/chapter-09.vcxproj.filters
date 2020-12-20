@@ -24,5 +24,14 @@
     <ClCompile Include="practice_09-03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="arraycross01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraycross02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arraycross03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
