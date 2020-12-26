@@ -39,5 +39,14 @@
     <ClCompile Include="practice_09-04.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="arraylookup01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_09-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_09-02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
