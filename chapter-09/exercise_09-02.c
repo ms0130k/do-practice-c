@@ -5,9 +5,13 @@ int main(void) {
 	int i = 0, j = 0, nCounter = 0;
 	int x = 5, y = 0, nDirection = 1;
 
-	for (i = 0; i < 5; ++i)
+	for (j = 0; j < 5; ++j)
 	{
-		aList[i][0] = ++nCounter;
+		for (i = 0; i < 5; ++i)
+		{
+			if (j % 2 == 0) aList[i][j] = ++nCounter;
+			else aList[4 - i][j] = ++nCounter;
+		}
 	}
 
 
