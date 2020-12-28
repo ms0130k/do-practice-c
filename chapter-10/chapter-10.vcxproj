@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="funcdesign01.c" />
     <ClCompile Include="function01.c" />
     <ClCompile Include="function03.c" />
   </ItemGroup>
