@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="codedevbad01.c" />
     <ClCompile Include="codedevgood01.c" />
+    <ClCompile Include="exercise_10-01.c" />
+    <ClCompile Include="exercise_10-02.c" />
+    <ClCompile Include="exercise_10-03.c" />
     <ClCompile Include="funcdesign01.c" />
     <ClCompile Include="funcdesign02.c" />
     <ClCompile Include="funcdesign03.c" />

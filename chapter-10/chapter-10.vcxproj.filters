@@ -51,5 +51,14 @@
     <ClCompile Include="idsearch02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise_10-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_10-02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_10-03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
