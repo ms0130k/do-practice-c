@@ -140,8 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="funcdesign01.c" />
+    <ClCompile Include="funcdesign02.c" />
+    <ClCompile Include="funcdesign03.c" />
     <ClCompile Include="function01.c" />
     <ClCompile Include="function03.c" />
+    <ClCompile Include="Printmenu01.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

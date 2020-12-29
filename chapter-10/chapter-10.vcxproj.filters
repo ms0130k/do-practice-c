@@ -24,5 +24,14 @@
     <ClCompile Include="funcdesign01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="funcdesign02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funcdesign03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Printmenu01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
