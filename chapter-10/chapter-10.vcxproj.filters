@@ -33,5 +33,23 @@
     <ClCompile Include="Printmenu01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PrintMenu02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_10-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="globalvariable01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="codedevbad01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="codedevgood01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="idsearch02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

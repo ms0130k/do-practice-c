@@ -139,12 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="codedevbad01.c" />
+    <ClCompile Include="codedevgood01.c" />
     <ClCompile Include="funcdesign01.c" />
     <ClCompile Include="funcdesign02.c" />
     <ClCompile Include="funcdesign03.c" />
     <ClCompile Include="function01.c" />
     <ClCompile Include="function03.c" />
+    <ClCompile Include="globalvariable01.c" />
+    <ClCompile Include="idsearch02.c" />
+    <ClCompile Include="practice_10-1.c" />
     <ClCompile Include="Printmenu01.c" />
+    <ClCompile Include="PrintMenu02.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
