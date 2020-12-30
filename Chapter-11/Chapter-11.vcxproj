@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c417acf9-b78a-44e6-83ae-85f5c75da4c6}</ProjectGuid>
-    <RootNamespace>chapter10</RootNamespace>
+    <ProjectGuid>{15576385-943e-4840-892d-ffd93c10a9d7}</ProjectGuid>
+    <RootNamespace>Chapter11</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -92,6 +92,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -139,22 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="codedevbad01.c" />
-    <ClCompile Include="codedevgood01.c" />
-    <ClCompile Include="exercise_10-01.c" />
-    <ClCompile Include="exercise_10-02.c" />
-    <ClCompile Include="exercise_10-03.c" />
-    <ClCompile Include="exercise_10-05.c" />
-    <ClCompile Include="funcdesign01.c" />
-    <ClCompile Include="funcdesign02.c" />
-    <ClCompile Include="funcdesign03.c" />
-    <ClCompile Include="function01.c" />
-    <ClCompile Include="function03.c" />
-    <ClCompile Include="globalvariable01.c" />
-    <ClCompile Include="idsearch02.c" />
-    <ClCompile Include="practice_10-1.c" />
-    <ClCompile Include="Printmenu01.c" />
-    <ClCompile Include="PrintMenu02.c" />
+    <ClCompile Include="pointer01.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
