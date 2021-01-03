@@ -8,6 +8,8 @@
 //	printf("%d\n", nData);
 //
 //	printf("%p\n", &nData);
+//	printf("%#x\n", 0x10);
+//	printf("%#x\n", &nData);
 //
 //	printf("%d\n", (long int) &nData);
 //	return 0;
