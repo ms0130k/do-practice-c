@@ -141,6 +141,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="pointer01.c" />
+    <ClCompile Include="pointer02.c" />
+    <ClCompile Include="ptrnarray01.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="test_2.c" />
   </ItemGroup>
