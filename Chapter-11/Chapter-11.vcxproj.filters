@@ -30,5 +30,32 @@
     <ClCompile Include="ptrnarray01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ptrstring01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrstring02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrmalloc01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrmeminit01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrmeminit02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_msize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrmemcpy01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_11-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrmemcmp01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
