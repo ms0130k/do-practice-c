@@ -143,15 +143,21 @@
     <ClCompile Include="pointer01.c" />
     <ClCompile Include="pointer02.c" />
     <ClCompile Include="practice_11-01.c" />
+    <ClCompile Include="practice_11-02.c" />
     <ClCompile Include="ptrmalloc01.c" />
     <ClCompile Include="ptrmemcmp01.c" />
     <ClCompile Include="ptrmemcpy01.c" />
     <ClCompile Include="ptrmeminit01.c" />
     <ClCompile Include="ptrmeminit02.c" />
     <ClCompile Include="ptrnarray01.c" />
+    <ClCompile Include="ptrnarray02.c" />
+    <ClCompile Include="ptrsearch01.c" />
+    <ClCompile Include="ptrstrcmp01.c" />
+    <ClCompile Include="ptrstrcmp02.c" />
     <ClCompile Include="ptrstring01.c" />
     <ClCompile Include="ptrstring02.c" />
     <ClCompile Include="test.c" />
+    <ClCompile Include="test3.c" />
     <ClCompile Include="test_2.c" />
     <ClCompile Include="_msize.c" />
   </ItemGroup>
