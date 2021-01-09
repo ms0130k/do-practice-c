@@ -6,14 +6,16 @@
 //
 //int main(void)
 //{
-//	int nData = 300;
-//	int* pnData = &nData;
-//	Test();
-//	pnData += 2;
-//	*pnData = 300;
-//	printf("*pnData: %d\n", *pnData);
-//	printf("nData: %d\n", nData);
-//	printf("pnData: %d\n", pnData);
+//	/*int aList[10] = { 0 };
+//	int* pnList = NULL;
+//	pnList = aList;
+//	(aList + 1)[10] = 10;*/
+//
+//	char arr[10] = { "okky0" };
+//	printf("%c\n", arr[4]);
+//	printf("%d\n", arr[4]);
+//	printf("%s\n", arr[4]);
+//	
 //
 //	return 0;
 //}

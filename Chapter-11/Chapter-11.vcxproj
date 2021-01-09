@@ -140,8 +140,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrayofptr01.c" />
+    <ClCompile Include="arrayofptr02.c" />
+    <ClCompile Include="arrayofptr03.c" />
+    <ClCompile Include="badpointer01.c" />
+    <ClCompile Include="exercies_11-02.c" />
+    <ClCompile Include="exercise_11-03.c" />
+    <ClCompile Include="exercise_11-04.c" />
     <ClCompile Include="pointer01.c" />
     <ClCompile Include="pointer02.c" />
+    <ClCompile Include="pointer03.c" />
     <ClCompile Include="practice_11-01.c" />
     <ClCompile Include="practice_11-02.c" />
     <ClCompile Include="ptrmalloc01.c" />
@@ -151,14 +159,19 @@
     <ClCompile Include="ptrmeminit02.c" />
     <ClCompile Include="ptrnarray01.c" />
     <ClCompile Include="ptrnarray02.c" />
+    <ClCompile Include="ptrrealloc01.c" />
     <ClCompile Include="ptrsearch01.c" />
     <ClCompile Include="ptrstrcmp01.c" />
     <ClCompile Include="ptrstrcmp02.c" />
     <ClCompile Include="ptrstring01.c" />
     <ClCompile Include="ptrstring02.c" />
+    <ClCompile Include="ptrtoarray01.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="test3.c" />
     <ClCompile Include="test_2.c" />
+    <ClCompile Include="variable01.c" />
+    <ClCompile Include="variable02.c" />
+    <ClCompile Include="variable03.c" />
     <ClCompile Include="_msize.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

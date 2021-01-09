@@ -9,10 +9,8 @@
 //	pList[0] = 10;
 //	pList[1] = 20;
 //	pList[2] = 30;
-//	pList[3] = 40;
-//	printf("sizeof(): %d\n", sizeof(pList));
 //
-//	for (i = 0; i < 4; ++i)
+//	for (i = 0; i < 3; ++i)
 //		printf("%d\n", pList[i]);
 //	free(pList);
 //	return 0;

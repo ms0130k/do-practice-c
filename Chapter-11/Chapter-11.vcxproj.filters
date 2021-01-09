@@ -75,5 +75,44 @@
     <ClCompile Include="test3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ptrrealloc01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="badpointer01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayofptr01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayofptr02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayofptr03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ptrtoarray01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variable01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variable02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variable03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercies_11-02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_11-03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_11-04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
