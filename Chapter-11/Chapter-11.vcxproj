@@ -147,6 +147,7 @@
     <ClCompile Include="exercies_11-02.c" />
     <ClCompile Include="exercise_11-03.c" />
     <ClCompile Include="exercise_11-04.c" />
+    <ClCompile Include="exercise_11-05.c" />
     <ClCompile Include="pointer01.c" />
     <ClCompile Include="pointer02.c" />
     <ClCompile Include="pointer03.c" />
