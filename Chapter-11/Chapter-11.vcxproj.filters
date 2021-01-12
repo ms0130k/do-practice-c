@@ -114,7 +114,10 @@
     <ClCompile Include="exercise_11-04.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="exercise_11-05.c">
+    <ClCompile Include="exercise_11-05-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_11-05-02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
