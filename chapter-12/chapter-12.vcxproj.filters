@@ -24,5 +24,17 @@
     <ClCompile Include="codedevgood01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="funcgetname01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funcgetname02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funcswap01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funcstrlen01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

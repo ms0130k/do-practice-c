@@ -142,6 +142,10 @@
     <ClCompile Include="codedevgood01.c" />
     <ClCompile Include="funccallbyref01.c" />
     <ClCompile Include="funccallbyval01.c" />
+    <ClCompile Include="funcgetname01.c" />
+    <ClCompile Include="funcgetname02.c" />
+    <ClCompile Include="funcstrlen01.c" />
+    <ClCompile Include="funcswap01.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
