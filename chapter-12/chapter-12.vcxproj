@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="codedevgood01.c" />
     <ClCompile Include="funccallbyref01.c" />
     <ClCompile Include="funccallbyval01.c" />
   </ItemGroup>
