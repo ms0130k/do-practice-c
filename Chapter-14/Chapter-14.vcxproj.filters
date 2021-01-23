@@ -15,28 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="funccallbyval01.c">
+    <ClCompile Include="Filefopen01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funccallbyref01.c">
+    <ClCompile Include="FileClose01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="codedevgood01.c">
+    <ClCompile Include="Filefprintf01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcgetname01.c">
+    <ClCompile Include="Filescanf01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcgetname02.c">
+    <ClCompile Include="Filefget01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcswap01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="funcstrlen01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="practice_12-01.c">
+    <ClCompile Include="Filefgets01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

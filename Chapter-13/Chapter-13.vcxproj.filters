@@ -15,28 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="funccallbyval01.c">
+    <ClCompile Include="struct01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funccallbyref01.c">
+    <ClCompile Include="struct02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="codedevgood01.c">
+    <ClCompile Include="structddanzi01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcgetname01.c">
+    <ClCompile Include="structddanzi02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcgetname02.c">
+    <ClCompile Include="structfunc01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcswap01.c">
+    <ClCompile Include="structfunc02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="funcstrlen01.c">
+    <ClCompile Include="struct03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="practice_12-01.c">
+    <ClCompile Include="structddanzi03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structddanzi04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structmemalign01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structmemalign02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structbitfield01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="union01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
