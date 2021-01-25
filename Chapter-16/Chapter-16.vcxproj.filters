@@ -15,34 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Filefopen01.c">
+    <ClCompile Include="macro01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FileClose01.c">
+    <ClCompile Include="macro02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Filefprintf01.c">
+    <ClCompile Include="macro03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Filescanf01.c">
+    <ClCompile Include="conditional01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Filefget01.c">
+    <ClCompile Include="PreCondition03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Filefgets01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Filefflush01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Filefwrite01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Filefread01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Filefseek01.c">
+    <ClCompile Include="mode01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

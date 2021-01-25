@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fea23c7c-6581-48e4-9f25-5c43613db591}</ProjectGuid>
-    <RootNamespace>Chapter14</RootNamespace>
+    <ProjectGuid>{d621090a-30fd-4da1-b63d-5da6c3d0cbdb}</ProjectGuid>
+    <RootNamespace>Chapter16</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,16 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileClose01.c" />
-    <ClCompile Include="Filefflush01.c" />
-    <ClCompile Include="Filefget01.c" />
-    <ClCompile Include="Filefgets01.c" />
-    <ClCompile Include="Filefopen01.c" />
-    <ClCompile Include="Filefprintf01.c" />
-    <ClCompile Include="Filefread01.c" />
-    <ClCompile Include="Filefseek01.c" />
-    <ClCompile Include="Filefwrite01.c" />
-    <ClCompile Include="Filescanf01.c" />
+    <ClCompile Include="conditional01.c" />
+    <ClCompile Include="macro01.c" />
+    <ClCompile Include="macro02.c" />
+    <ClCompile Include="macro03.c" />
+    <ClCompile Include="mode01.c" />
+    <ClCompile Include="PreCondition03.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

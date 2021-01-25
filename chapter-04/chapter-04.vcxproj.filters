@@ -174,5 +174,8 @@
     <ClCompile Include="exercise_06-03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="macro01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
