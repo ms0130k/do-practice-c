@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0a4b0cbb-5f9a-419e-8b60-517ece1b1ea6}</ProjectGuid>
-    <RootNamespace>Chapter17</RootNamespace>
+    <ProjectGuid>{959bb6e3-07bb-4320-af4f-87d995513751}</ProjectGuid>
+    <RootNamespace>LibTest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,16 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="callback01.c" />
-    <ClCompile Include="convention02.c" />
-    <ClCompile Include="convention04.c" />
-    <ClCompile Include="converstion01.c" />
-    <ClCompile Include="funcptr01.c" />
-    <ClCompile Include="funcptr02.c" />
-    <ClCompile Include="inline01.c" />
-    <ClCompile Include="optimize01.c" />
-    <ClCompile Include="optimize02.c" />
-    <ClCompile Include="Test.c" />
+    <ClCompile Include="LibTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

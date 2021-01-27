@@ -15,34 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Test.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="optimize01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="optimize02.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="inline01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="converstion01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="convention02.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="convention04.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="funcptr01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="funcptr02.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="callback01.c">
+    <ClCompile Include="LibTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
